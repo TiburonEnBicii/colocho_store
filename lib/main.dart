@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget { //pa no cambiar mi estado
       title: 'Colocho Store',
       theme: ThemeData(
     
-        primarySwatch: Colors.orange,
+        primarySwatch: Colors.yellow,
         canvasColor: Colors.white,
         textTheme: const TextTheme(
           headline5: TextStyle(color: Colors.white),
